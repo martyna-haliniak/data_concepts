@@ -9,11 +9,11 @@ and can therefore represent the whole set of data.
 
 The three most common types are:
 
-- **Mean**
+- **Mean**  
   The **mean** of a set of numbers in a data set is obtained by adding up all the numbers
   then dividing by the size of the data set.
 
-- **Median**
+- **Median**  
   The **median** can be described as the 'middle number'. We can obtain the median by ordering
   the data in terms of size, then:
   - For an odd number of observations, simply take the middle number.
@@ -22,9 +22,15 @@ The three most common types are:
 For a large data set, it is useful to find the position of the median within the data set.
 This is given by (*n* + 1)/2, where *n* is the number of data values in the data set.
 
-- **Mode**
+- **Mode**  
   The **mode** is the most common number that appears in your set of data. 
   To find the mode count how often each number appears and the number that appears the most times is the mode.
 
  
+## Standard Deviation
 
+The **standard deviation**, often denoted by σ, is a statistic measuring the dispersion
+of a data set relative to its mean. It is calculated as the square root of the variance. 
+
+- A high standard deviation mean that values are generally far from the mean.
+- A low standard deviation indicated that values are clustered close to the mean.
