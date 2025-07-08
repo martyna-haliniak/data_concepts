@@ -50,7 +50,7 @@ certain values or ranges.
    A distribution is **positively skewed** when most data values are low,
    but a few very high values stretch the graph to the right. 
 
-   In this case:  
+   In this case:
    - The _mean_ is higher than the _median_.
    - The long tail is on the right side.
 
@@ -58,7 +58,29 @@ certain values or ranges.
    A distribution is **negatively skew** when most data values are high, but a few very
    low values stretch the graph to the left. 
 
-   In this case:  
+   In this case:
    - The mean is lower than the median.
    - The long tail is on the left side.
+
+## Outliers 
+
+An **outlier** is a value in a data set that is _much higher_ or _much lower_ than most
+of the other values.
+
+Outliers can affect things like the mean and may show that something unusual is
+happening in the data.
+
+They can occur because of errors, rare events, or natural variation. 
+
+## Correlations 
+
+A **correlation** shows whether and how strongly two variables are related.
+
+- If one value increases and the other increases, that's a _positive correlation_.
+- If one value decreases and the other increases, that's a _negative correlation_.
+- If there is no clear pattern, there's _no correlation_. 
+
+Correlation helps us understand patterns but doesn't prove that one thing causes the other. 
+
+
 
