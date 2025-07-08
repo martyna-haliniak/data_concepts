@@ -4,7 +4,7 @@ This document introduces key statistical concepts in a clear and beginner-friend
 
 ## Averages
 
-An **Average** summarises a set of data into a single value which is typical or central
+An **average** summarises a set of data into a single value which is typical or central
 and can therefore represent the whole set of data.
 
 The three most common types are:
@@ -19,8 +19,8 @@ The three most common types are:
   - For an odd number of observations, simply take the middle number.
   - For an even number of observations, take the two middle numbers, add them together and divide by 2.
 
-For a large data set, it is useful to find the position of the median within the data set.
-This is given by (*n* + 1)/2, where *n* is the number of data values in the data set.
+  For a large data set, it is useful to find the position of the median within the data set.
+  This is given by (*n* + 1)/2, where *n* is the number of data values in the data set.
 
 - **Mode**  
   The **mode** is the most common number that appears in your set of data. 
@@ -34,3 +34,31 @@ of a data set relative to its mean. It is calculated as the square root of the v
 
 - A high standard deviation mean that values are generally far from the mean.
 - A low standard deviation indicated that values are clustered close to the mean.
+
+## Distributions
+
+A **distribution** refers to how the data is spread out or clustered around 
+certain values or ranges. 
+
+- **Normal Distribution**  
+  A **normal distribution**, also known as a _Gaussian distribution_
+  or _probability bell curve_, is a type of continuous probability distribution in which 
+  most data points cluster toward the middle of the range, while the rest taper off 
+  symetrically toward either extreme. It is symmetric about the mean.
+
+- **Positive Skew**  
+   A distribution is **positively skewed** when most data values are low,
+   but a few very high values stretch the graph to the right. 
+
+   In this case:  
+   - The _mean_ is higher than the _median_.
+   - The long tail is on the right side.
+
+- **Negative Skew**  
+   A distribution is **negatively skew** when most data values are high, but a few very
+   low values stretch the graph to the left. 
+
+   In this case:  
+   - The mean is lower than the median.
+   - The long tail is on the left side.
+
